@@ -4,17 +4,17 @@
 This is a QR code display
 
 ### Screenshot
+[desktop view]
+(images\screenshot.png)
 
-images\screenshot.png,
-
-
-images\mobile screenshot.png
+[mobile-view]
+(images\mobile screenshot.png)
 
 
 ### Links
 
-- Solution URL: (https://github.com/iyke-e/QR-code-project/
-- Live Site URL: https://iyke-e.github.io/QR-code-project/
+- Solution URL: (https://github.com/iyke-e/QR-code-project/)
+- Live Site URL: https://iyke-e.github.io/QR-code-project/)
 
 
 ### Built with
