@@ -4,12 +4,13 @@
 This is a QR code display
 
 ### Screenshot
-[desktop view]
-(images\screenshot.png)
+desktop view
+<img src="images\screenshot.png">
 
-[mobile-view]
-(images\mobile screenshot.png)
 
+
+mobile-view
+<img src="images\screenshot.png">
 
 ### Links
 
