@@ -10,7 +10,7 @@ desktop view
 
 
 mobile-view
-<img src="images\screenshot.png">
+<img src="images\mobile screenshot.png">
 
 ### Links
 
